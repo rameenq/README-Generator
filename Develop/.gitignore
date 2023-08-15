@@ -1,1 +1,5 @@
 node_modules
+
+npm install inquirer
+
+npm install markdown
